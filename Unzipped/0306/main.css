@@ -1,0 +1,28 @@
+#divParent {
+    background-color: gray;
+    
+}
+#divC1 {
+    background-color: lightgreen;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 20%;
+    
+}
+
+#divC2 {
+    background-color: lightgreen;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 20%;
+}
+#divC3 {
+    background-color: lightgreen;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 20%;
+}
+
