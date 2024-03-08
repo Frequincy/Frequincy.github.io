@@ -8,42 +8,42 @@
 }
 
 #div1 {
-    background-color: red;
+    background-color: lightcoral;
     width: 600px;
     height: 100px;
     margin-bottom: 10px;
 }
 
 #div2 {
-    background-color: blue;
+    background-color: lightblue;
     width: 600px;
     height: 100px;
     margin-bottom: 10px;
 }
 
 #div3 {
-    background-color: green;
+    background-color: lightgreen;
     width: 600px;
     height: 100px;
     margin-bottom: 10px;
 }
 
 #div4 {
-    background-color: yellow;
+    background-color: lightpink;
     width: 600px;
     height: 100px;
     margin-bottom: 10px;
 }
 
 #div5 {
-    background-color: orange;
+    background-color: lightpink;
     width: 600px;
     height: 100px;
     margin-bottom: 10px;
 }
 
 #div6 {
-    background-color: purple;
+    background-color: lavender;
     width: 600px;
     height: 100px;
     margin-bottom: 10px;
